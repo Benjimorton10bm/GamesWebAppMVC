@@ -11,7 +11,6 @@ C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\bin\Debug\netcoreapp2.1\UniWo
 C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UniWork.csprojAssemblyReference.cache
 C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UniWork.RazorAssemblyInfo.cache
 C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UniWork.RazorAssemblyInfo.cs
-C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UniWork.AssemblyInfoInputs.cache
 C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UniWork.AssemblyInfo.cs
 C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UniWork.TagHelpers.input.cache
@@ -35,3 +34,14 @@ C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UniWo
 C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UniWork.dll
 C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UniWork.pdb
 C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UniWork.csproj.CopyComplete
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\BenjisLaptop\source\repos\UniWork\UniWork\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs

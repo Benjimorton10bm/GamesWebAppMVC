@@ -15,8 +15,6 @@ namespace UniWork.Models
 
         public string Password { get; set; }
 
-        public string Email { get; set; }
-
         public string Postcode { get; set; }
 
         public string PhoneNumber { get; set; }
